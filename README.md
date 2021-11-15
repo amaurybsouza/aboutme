@@ -10,7 +10,10 @@ I am currently working on the Skaffold project —the Makefile for the cloud-nat
 
 - 11/2021 [(IaC) Parte 6: Provisionando um DigitalOcean Droplet com Terraform](https://amauryborgesouza.medium.com/iac-parte-6-provisionando-um-digitalocean-droplet-com-terraform-120d232d0bba)
 - 11/2021 [Conheça 5 livros sobre a cultura DevOps que todo entusiasta precisa ler](https://amauryborgesouza.medium.com/conhe%C3%A7a-5-livros-sobre-a-cultura-devops-que-todo-entusiasta-precisa-ler-4d47ddfba9fe)
-- 10/2011 [Visual Studio Code para Web](https://amauryborgesouza.medium.com/visual-studio-code-para-web-e5353e219342)
+- 10/2021 [Visual Studio Code para Web](https://amauryborgesouza.medium.com/visual-studio-code-para-web-e5353e219342)
+- 10/2021 [[Docker Swarm]— Parte 1: Como inicializar um cluster no Labs-Play-with-Docker](https://amauryborgesouza.medium.com/docker-swarm-parte-1-como-inicializar-um-cluster-no-labs-play-with-docker-d8d57816a62f)
+- 10/2021 [Como eu uso o Notion para planejar meu roadmap de estudos em DevOps](https://amauryborgesouza.medium.com/como-eu-uso-o-notion-para-planejar-meu-roadmap-de-estudos-em-devops-4417f978f686)
+- 10/2021 [Como estudar Docker containers com Play with Docker (Browser-Based)](https://amauryborgesouza.medium.com/como-estudar-docker-containers-com-play-with-docker-browser-based-da6e1d05b50b)
 
 
 ## Markdown
