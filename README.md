@@ -21,30 +21,28 @@ Actually I am working as a Senior Linux Administrator at Kyndryl, with experienc
 
 ## Recent open source projects
 
-I build open source tools that help hundreds of thousands of developers around the world as part of my job. You can find them on my GitHub profile:
+I developed several automations on AWS Cloud to provisioning resources using Ansible, Terraform (IaC). You can find them on my [GitHub profile](https://github.com/amaurybsouza):
 
-- sasa
-- sasas
-- sasasas
-- sasasas
-- asasasa
+- [Terraform AWS EC2](https://github.com/Terraform-Tutorials/terraform-aws-ec2)
+- [Terraform AWS EC2](https://github.com/Terraform-Tutorials/terraform-aws-ec2)
+- [Terraform AWS EC2](https://github.com/Terraform-Tutorials/terraform-aws-ec2)
+- [Terraform AWS EC2](https://github.com/Terraform-Tutorials/terraform-aws-ec2)
 
 ## Previous work
 
-Previously, I worked at IBM as a Linux Administrator, improving the infrastructure and services for our customers by using advanced DevOps tools, setting up big-data analytical tools (i.e. Hadoop, BigQuery), creating and maintaining models, and onboarding new data sets.
+Previously, I worked at IBM as a Linux Administrator, improving the infrastructure and services for our customers by using advanced DevOps tools, setting up infrastructure tools (i.e. Ansible, Satellite), creating and maintaining IT documenation, RFC's and other assets.
 
 During my time at IBM, I have started and shipped projects like:
 
 - SBC (Secure Baseline Configuration on Red Hat Enterprise Linux).
 - Centrify Upgrade (Updating the Centrify Agent using Ansible Playbooks).
-- Automate several procedures using Ansible (IaC).
-
+- Automate several procedures using Ansible (Confguration as Code).
+- Perform the automation of filesystem /var and /var/log 
 
 ## Contact
 
-Best way to get a hold of me is to message me on Linkedin. If that doesn't work out, email me at address amauryborgesouza@gmail.com.
+Best way to get a hold of me is to message me [on Linkedin](https://www.linkedin.com/in/amaurybsouza/). If that doesn't work out, email me at address amauryborgesouza@gmail.com.
 
-
-## Support or Contact
+## Support
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
