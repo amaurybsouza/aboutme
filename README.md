@@ -7,9 +7,8 @@ Actually I am working as a Senior Linux Administrator at Kyndryl, with experienc
 Over the course of my career, I have developed notable projects with strong adoption in the IT community, around Linux, Shell Scripts and Ansible.
 
 - Follow me [on Twitter](https://twitter.com/amaurybsouza_)
-- [Read my blog](https://amauryborgesouza.medium.com/)
-- [Browse my projects on GitHub](https://github.com/amaurybsouza)
-- as
+- Read mu blog [on Medium](https://amauryborgesouza.medium.com/)
+- Browse my projects [on GitHub](https://github.com/amaurybsouza)
 
 
 ## Latest articles
