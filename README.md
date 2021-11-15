@@ -14,6 +14,10 @@ I am currently working on the Skaffold project —the Makefile for the cloud-nat
 - 10/2021 [[Docker Swarm]— Parte 1: Como inicializar um cluster no Labs-Play-with-Docker](https://amauryborgesouza.medium.com/docker-swarm-parte-1-como-inicializar-um-cluster-no-labs-play-with-docker-d8d57816a62f)
 - 10/2021 [Como eu uso o Notion para planejar meu roadmap de estudos em DevOps](https://amauryborgesouza.medium.com/como-eu-uso-o-notion-para-planejar-meu-roadmap-de-estudos-em-devops-4417f978f686)
 - 10/2021 [Como estudar Docker containers com Play with Docker (Browser-Based)](https://amauryborgesouza.medium.com/como-estudar-docker-containers-com-play-with-docker-browser-based-da6e1d05b50b)
+- 08/2021 [Como passei no exame AWS Certified Cloud Practitioner (CLF)](https://amauryborgesouza.medium.com/como-passei-no-exame-aws-certified-cloud-practitioner-clf-f2237aa4460f)
+- 12/2020 [(Trilha LPIC): Parte 2— Planejamento de Capacidade com Linux](https://amauryborgesouza.medium.com/trilha-lpic-parte-2-planejamento-de-capacidade-com-linux-a6e2f9439c7d)
+- 12/2020 [(Trilha LPIC): Parte 1 — Planejamento de Capacidade com Linux](https://amauryborgesouza.medium.com/trilha-lpic-parte-1-planejamento-de-capacidade-com-linux-a006d0736539)
+- 21/2020 [Custom facts em Ansible. ME SOLTA! Quero personalizar minhas tasks…](https://amauryborgesouza.medium.com/custom-facts-em-ansible-me-solta-quero-personalizar-minhas-tasks-4718b48b88aa)
 
 
 ## Markdown
