@@ -1,4 +1,4 @@
-## /home/amaury
+## Intro
 
 I'm Linux expert with over 8+ years of experience in on-premises IT infrastructure. 
 
