@@ -1,10 +1,7 @@
-## Intro
+Focused on Linux administration and automation. I'm Linux expert with over 8+ years of experience in on-premises IT infrastructure. 
 
-I am a Senior Linux Administrator working at Kyndryl, managing teh IT environment and experiences around Ansible, Satellite, Linux.
+Actually I am working as a Senior Linux Administrator at Kyndryl, with experience in Linux (patching, troubleshooting, networking, filesystems), VMware, Ansible, Red Hat Satellite, Shell Scripting, Regex and several tools to administrate the Linux servers and the IT infrastructure.
 
-Over the course of my career, I have developed notable open source tools with strong adoption in the cloud-native infrastructure space, around Kubernetes and serverless containers.
-
-I am currently working on the Skaffold project —the Makefile for the cloud-native world. Prior to that, I worked on the Cloud Run and Kubernetes (GKE).
 
 ## Latest articles
 
