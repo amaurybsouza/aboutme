@@ -24,9 +24,11 @@ Actually I am working as a Senior Linux Administrator at Kyndryl, with experienc
 I developed several automations on AWS Cloud to provisioning resources using Ansible, Terraform (IaC). You can find them on my [GitHub profile](https://github.com/amaurybsouza):
 
 - [Terraform AWS EC2](https://github.com/Terraform-Tutorials/terraform-aws-ec2)
-- [Terraform AWS EC2](https://github.com/Terraform-Tutorials/terraform-aws-ec2)
-- [Terraform AWS EC2](https://github.com/Terraform-Tutorials/terraform-aws-ec2)
-- [Terraform AWS EC2](https://github.com/Terraform-Tutorials/terraform-aws-ec2)
+- [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating): Integrate OTRS 6 (Ticket Management) with Zabbix.
+- [terraform-digitalocean-dropletPublic](https://github.com/amaurybsouza/terraform-digitalocean-droplet): 
+- [iac-practice](https://github.com/amaurybsouza/iac-practice): Terraform + Ansible to provision an EC2 on AWS Cloud and install Docker.
+- [terraform-aws-s3](https://github.com/amaurybsouza/terraform-aws-s3): Provisioning a S3 Bucket on AWS Cloud using the best practices of Terraform.
+
 
 ## Previous work
 
