@@ -1,8 +1,10 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/amaurybsouza/aboutme/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a Senior Linux Administrator working at Kyndryl, managing teh IT environment and experiences around Ansible, Satellite, Linux.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Over the course of my career, I have developed notable open source tools with strong adoption in the cloud-native infrastructure space, around Kubernetes and serverless containers.
+
+I am currently working on the Skaffold project —the Makefile for the cloud-native world. Prior to that, I worked on the Cloud Run and Kubernetes (GKE).
 
 ## Latest articles
 
