@@ -4,6 +4,13 @@ I'm Linux expert with over 8+ years of experience in on-premises IT infrastructu
 
 Actually I am working as a Senior Linux Administrator at Kyndryl, with experience in Linux (patching, troubleshooting, networking, filesystems), VMware, Ansible, Red Hat Satellite, Shell Scripting, Regex and several tools to administrate the Linux servers and the IT infrastructure.
 
+Over the course of my career, I have developed notable projects with strong adoption in the IT community, around Linux, Shell Scripts and Ansible.
+
+- Follow me [on Twitter](https://twitter.com/amaurybsouza_)
+- [Read my blog](https://amauryborgesouza.medium.com/)
+- [Browse my projects on GitHub](https://github.com/amaurybsouza)
+- as
+
 
 ## Latest articles
 
@@ -25,7 +32,7 @@ I developed several automations on AWS Cloud to provisioning resources using Ans
 
 - [Terraform AWS EC2](https://github.com/Terraform-Tutorials/terraform-aws-ec2)
 - [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating): Integrate OTRS 6 (Ticket Management) with Zabbix.
-- [terraform-digitalocean-dropletPublic](https://github.com/amaurybsouza/terraform-digitalocean-droplet): 
+- [terraform-digitalocean-dropletPublic](https://github.com/amaurybsouza/terraform-digitalocean-droplet): Deploying a DigitalOcean Droplet using Terraform
 - [iac-practice](https://github.com/amaurybsouza/iac-practice): Terraform + Ansible to provision an EC2 on AWS Cloud and install Docker.
 - [terraform-aws-s3](https://github.com/amaurybsouza/terraform-aws-s3): Provisioning a S3 Bucket on AWS Cloud using the best practices of Terraform.
 
