@@ -8,9 +8,9 @@ I am currently working on the Skaffold project —the Makefile for the cloud-nat
 
 ## Latest articles
 
-11/2021 [(IaC) Parte 6: Provisionando um DigitalOcean Droplet com Terraform](https://amauryborgesouza.medium.com/iac-parte-6-provisionando-um-digitalocean-droplet-com-terraform-120d232d0bba)
-11/2021 [Conheça 5 livros sobre a cultura DevOps que todo entusiasta precisa ler](https://amauryborgesouza.medium.com/conhe%C3%A7a-5-livros-sobre-a-cultura-devops-que-todo-entusiasta-precisa-ler-4d47ddfba9fe)
-10/2011 [Visual Studio Code para Web](https://amauryborgesouza.medium.com/visual-studio-code-para-web-e5353e219342)
+- 11/2021 [(IaC) Parte 6: Provisionando um DigitalOcean Droplet com Terraform](https://amauryborgesouza.medium.com/iac-parte-6-provisionando-um-digitalocean-droplet-com-terraform-120d232d0bba)
+- 11/2021 [Conheça 5 livros sobre a cultura DevOps que todo entusiasta precisa ler](https://amauryborgesouza.medium.com/conhe%C3%A7a-5-livros-sobre-a-cultura-devops-que-todo-entusiasta-precisa-ler-4d47ddfba9fe)
+- 10/2011 [Visual Studio Code para Web](https://amauryborgesouza.medium.com/visual-studio-code-para-web-e5353e219342)
 
 
 ## Markdown
