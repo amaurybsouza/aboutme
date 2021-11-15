@@ -1,13 +1,13 @@
 ## Intro
 
-I'm Linux expert with over 8+ years of experience in on-premises IT infrastructure. 
+Hi, I'm Amaury, a Linux expert with over 8+ years of experience in on-premises IT infrastructure. 
 
 Actually I am working as a Senior Linux Administrator at Kyndryl, with experience in Linux (patching, troubleshooting, networking, filesystems), VMware, Ansible, Red Hat Satellite, Shell Scripting, Regex and several tools to administrate the Linux servers and the IT infrastructure.
 
 Over the course of my career, I have developed notable projects with strong adoption in the IT community, around Linux, Shell Scripts and Ansible.
 
 - Follow me [on Twitter](https://twitter.com/amaurybsouza_)
-- Read mu blog [on Medium](https://amauryborgesouza.medium.com/)
+- Read my blog [on Medium](https://amauryborgesouza.medium.com/)
 - Browse my projects [on GitHub](https://github.com/amaurybsouza)
 
 
@@ -27,9 +27,11 @@ Over the course of my career, I have developed notable projects with strong adop
 
 ## Recent open source projects
 
-I developed several automations on AWS Cloud to provisioning resources using Ansible, Terraform (IaC). You can find them on my [GitHub profile](https://github.com/amaurybsouza):
+I developed several automations on AWS/DigitalOcean Cloud to provisioning resources using Terraform (IaC) and Ansible (CG). 
 
-- [Terraform AWS EC2](https://github.com/Terraform-Tutorials/terraform-aws-ec2)
+You can find them on my [GitHub profile](https://github.com/amaurybsouza):
+
+- [terraform-aws-ec2](https://github.com/Terraform-Tutorials/terraform-aws-ec2)
 - [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating): Integrate OTRS 6 (Ticket Management) with Zabbix.
 - [terraform-digitalocean-dropletPublic](https://github.com/amaurybsouza/terraform-digitalocean-droplet): Deploying a DigitalOcean Droplet using Terraform
 - [iac-practice](https://github.com/amaurybsouza/iac-practice): Terraform + Ansible to provision an EC2 on AWS Cloud and install Docker.
@@ -38,7 +40,9 @@ I developed several automations on AWS Cloud to provisioning resources using Ans
 
 ## Previous work
 
-Previously, I worked at IBM as a Linux Administrator, improving the infrastructure and services for our customers by using advanced DevOps tools, setting up infrastructure tools (i.e. Ansible, Satellite), creating and maintaining IT documenation, RFC's and other assets.
+Previously, I worked at IBM as a Linux Administrator, improving the infrastructure and services for our customers by using advanced DevOps tools, setting up infrastructure tools (i.e. Ansible, Satellite, Linux, Shell Scrupt), creating and maintaining IT documentation and other assets.
+
+Also, in the past experiences, I have installed and configured the Zabbix and Grafana to monitoring the infrastructure, I have created several scripts (Bash) to automate the routine in the PROD/TEST servers, and I have worked with network team to ensure the network environment (datacenter) is working fine.
 
 During my time at IBM, I have started and shipped projects like:
 
