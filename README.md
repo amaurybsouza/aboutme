@@ -20,6 +20,17 @@ I am currently working on the Skaffold project —the Makefile for the cloud-nat
 - 21/2020 [Custom facts em Ansible. ME SOLTA! Quero personalizar minhas tasks…](https://amauryborgesouza.medium.com/custom-facts-em-ansible-me-solta-quero-personalizar-minhas-tasks-4718b48b88aa)
 
 
+## Recent open source projects
+
+I build open source tools that help hundreds of thousands of developers around the world as part of my job. You can find them on my GitHub profile:
+
+- sasa
+- sasas
+- sasasas
+- sasasas
+- asasasa
+
+
 ## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
