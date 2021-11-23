@@ -7,6 +7,7 @@ Over the course of my career, I have developed notable projects with strong adop
 - Follow me [on Twitter](https://twitter.com/amaurybsouza_)
 - Read my blog [on Medium](https://amauryborgesouza.medium.com/)
 - Browse my projects [on GitHub](https://github.com/amaurybsouza)
+- See my DevOps talks [on Speackerdeck](https://speakerdeck.com/amaurybsouza)
 
 
 ## Latest articles
