@@ -1,6 +1,6 @@
 Hi, I'm Amaury, a Linux expert with over 8+ years of experience in on-premises IT infrastructure. 
 
-Actually I am working as a Senior Linux Administrator at Kyndryl, with experience in Linux (patching, troubleshooting, networking, filesystems), VMware, Ansible, Red Hat Satellite, Shell Scripting, Regex and several tools to administrate the Linux servers and the IT infrastructure.
+Actually I'm working as a Senior Linux Administrator at Kyndryl, with experience in Linux (patching, troubleshooting, networking, filesystems), VMware, Ansible, Red Hat Satellite, Shell Scripting, Regex and several tools to administrate the Linux servers and the IT infrastructure.
 
 Over the course of my career, I have developed notable projects with strong adoption in the IT community, around Linux, Shell Scripts and Ansible.
 
