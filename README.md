@@ -36,6 +36,15 @@ You can find them on my [GitHub profile](https://github.com/amaurybsouza):
 - [iac-practice](https://github.com/amaurybsouza/iac-practice): Terraform + Ansible to provision an EC2 on AWS Cloud and install Docker.
 - [terraform-aws-s3](https://github.com/amaurybsouza/terraform-aws-s3): Provisioning a S3 Bucket on AWS Cloud using the best practices of Terraform.
 
+## Viva o Linux contributions
+
+I developed several articles and Shell Scripts for the Linux community.You can find them on [Viva o Linux website](https://www.vivaolinux.com.br):
+
+- [Trilha Filesystems Linux - Operação de Sistemas de Arquivos](https://www.vivaolinux.com.br/artigo/Trilha-Filesystems-Linux-Operacao-de-Sistemas-de-Arquivos/)
+- [Principais Comandos de Gestão e Prioridade de Processos no Linux](https://www.vivaolinux.com.br/artigo/Principais-Comandos-de-Gestao-e-Prioridade-de-Processos-no-Linux/)
+- [Sistema de gerenciamento de logs do Linux](https://www.vivaolinux.com.br/artigo/Sistema-de-gerenciamento-de-logs-do-Linux/)
+- [Gerenciamento de pacotes Debian - principais comandos LPIC-1](https://www.vivaolinux.com.br/artigo/Gerenciamento-de-pacotes-Debian-principais-comandos-LPIC-1/)
+
 
 ## Previous work
 
