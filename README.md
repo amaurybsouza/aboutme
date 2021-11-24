@@ -40,7 +40,7 @@ You can find them on my [GitHub profile](https://github.com/amaurybsouza):
 
 I developed several articles and { Shell Scripts } for the Linux community.
 
-You can find them on [Viva o Linux website](https://www.vivaolinux.com.br):
+You can find them on [Viva o Linux](https://www.vivaolinux.com.br):
 
 - 09/2020 [Trilha Filesystems Linux - Operação de Sistemas de Arquivos](https://www.vivaolinux.com.br/artigo/Trilha-Filesystems-Linux-Operacao-de-Sistemas-de-Arquivos/)
 - 09/2019 [Principais Comandos de Gestão e Prioridade de Processos no Linux](https://www.vivaolinux.com.br/artigo/Principais-Comandos-de-Gestao-e-Prioridade-de-Processos-no-Linux/)
