@@ -21,7 +21,7 @@ Over the course of my career, I have developed notable projects with strong adop
 - 08/2021 [Como passei no exame AWS Certified Cloud Practitioner (CLF)](https://amauryborgesouza.medium.com/como-passei-no-exame-aws-certified-cloud-practitioner-clf-f2237aa4460f)
 - 12/2020 [(Trilha LPIC): Parte 2— Planejamento de Capacidade com Linux](https://amauryborgesouza.medium.com/trilha-lpic-parte-2-planejamento-de-capacidade-com-linux-a6e2f9439c7d)
 - 12/2020 [(Trilha LPIC): Parte 1 — Planejamento de Capacidade com Linux](https://amauryborgesouza.medium.com/trilha-lpic-parte-1-planejamento-de-capacidade-com-linux-a006d0736539)
-- 21/2020 [Custom facts em Ansible. ME SOLTA! Quero personalizar minhas tasks…](https://amauryborgesouza.medium.com/custom-facts-em-ansible-me-solta-quero-personalizar-minhas-tasks-4718b48b88aa)
+- 12/2020 [Custom facts em Ansible. ME SOLTA! Quero personalizar minhas tasks…](https://amauryborgesouza.medium.com/custom-facts-em-ansible-me-solta-quero-personalizar-minhas-tasks-4718b48b88aa)
 
 
 ## Recent open source projects
@@ -38,12 +38,14 @@ You can find them on my [GitHub profile](https://github.com/amaurybsouza):
 
 ## Viva o Linux contributions
 
-I developed several articles and Shell Scripts for the Linux community.You can find them on [Viva o Linux website](https://www.vivaolinux.com.br):
+I developed several articles and { Shell Scripts } for the Linux community.
 
-- [Trilha Filesystems Linux - Operação de Sistemas de Arquivos](https://www.vivaolinux.com.br/artigo/Trilha-Filesystems-Linux-Operacao-de-Sistemas-de-Arquivos/)
-- [Principais Comandos de Gestão e Prioridade de Processos no Linux](https://www.vivaolinux.com.br/artigo/Principais-Comandos-de-Gestao-e-Prioridade-de-Processos-no-Linux/)
-- [Sistema de gerenciamento de logs do Linux](https://www.vivaolinux.com.br/artigo/Sistema-de-gerenciamento-de-logs-do-Linux/)
-- [Gerenciamento de pacotes Debian - principais comandos LPIC-1](https://www.vivaolinux.com.br/artigo/Gerenciamento-de-pacotes-Debian-principais-comandos-LPIC-1/)
+You can find them on [Viva o Linux website](https://www.vivaolinux.com.br):
+
+- 09/2020 [Trilha Filesystems Linux - Operação de Sistemas de Arquivos](https://www.vivaolinux.com.br/artigo/Trilha-Filesystems-Linux-Operacao-de-Sistemas-de-Arquivos/)
+- 09/2019 [Principais Comandos de Gestão e Prioridade de Processos no Linux](https://www.vivaolinux.com.br/artigo/Principais-Comandos-de-Gestao-e-Prioridade-de-Processos-no-Linux/)
+- 11/2018 [Sistema de gerenciamento de logs do Linux](https://www.vivaolinux.com.br/artigo/Sistema-de-gerenciamento-de-logs-do-Linux/)
+- 11/2018 [Gerenciamento de pacotes Debian - principais comandos LPIC-1](https://www.vivaolinux.com.br/artigo/Gerenciamento-de-pacotes-Debian-principais-comandos-LPIC-1/)
 
 
 ## Previous work
