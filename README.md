@@ -26,7 +26,7 @@ Over the course of my career, I have developed notable projects with strong adop
 
 ## Recent open source projects
 
-I developed several automations on AWS/DigitalOcean Cloud to provisioning resources using Terraform (IaC) and Ansible (CG). 
+I developed several automations on AWS/DigitalOcean Cloud to provisioning resources using Terraform (IaC) and Ansible (CG)
 
 You can find them on my [GitHub profile](https://github.com/amaurybsouza):
 
