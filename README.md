@@ -36,6 +36,17 @@ You can find them on my [GitHub profile](https://github.com/amaurybsouza):
 - [iac-practice](https://github.com/amaurybsouza/iac-practice): Terraform + Ansible to provision an EC2 on AWS Cloud and install Docker.
 - [terraform-aws-s3](https://github.com/amaurybsouza/terraform-aws-s3): Provisioning a S3 Bucket on AWS Cloud using the best practices of Terraform.
 
+## Latest DevOps courses
+
+I did many DevOps courses during my carreer on seberal platforms like, Udemy, LinuxTips, Alura, Linkedin Learning:
+
+Below I listed those finalized courses:
+
+- 02/2020: Ansible for SysAdmins 
+- 12/2021: Git e Github Essencial para o Desenvolvedor 
+- 10/2020: AWX for SysAdmins 
+
+
 ## Viva o Linux contributions
 
 I developed several articles and { Shell Scripts } for the Linux community.
