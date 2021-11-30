@@ -25,8 +25,8 @@ Below you can check some posts developed by me on [Medium](https://amauryborgeso
 
 I have developed several automations on [Github](https://github.com/amaurybsouza) about the AWS & DigitalOcean providers to provisioning resources using Terraform, Ansible, Docker and  other tools around DevOps:
 
-- [DevOps Cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet) - most commonly and used commands for easy reference around DevOps tools
-- [DevOps Exercises](https://github.com/amaurybsouza/devops-exercises) - DevOps interview questions about several tools
+- [devops cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet) - Most commonly and used commands for easy reference around DevOps tools
+- [devops exercises](https://github.com/amaurybsouza/devops-exercises) - DevOps interview questions about several tools
 - [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating) - Integrate OTRS 6 (Ticket Management) with Zabbix
 - [terraform-digitalocean-dropletPublic](https://github.com/amaurybsouza/terraform-digitalocean-droplet) - Deploying a DigitalOcean Droplet using Terraform
 - [iac-practice](https://github.com/amaurybsouza/iac-practice) - Terraform + Ansible to provision an EC2 on AWS Cloud and install Docker.
