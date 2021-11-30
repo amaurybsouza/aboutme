@@ -4,9 +4,9 @@ Actually I'm working as a Senior Linux Administrator at Kyndryl, with experience
 
 Over the course of my career, I have developed notable projects with strong adoption in the IT community, around Linux, Shell Scripts, Ansible and Terraform.
 
-## Latest articles (Medium Blog)
+## Latest articles
 
-Below you can read some post developed by me on Medium blog, you can learn more about Ansible, Terraform, Docker, Kubernetes, Linux and more:
+Below you can check some posts developed by me on [Medium](https://amauryborgesouza.medium.com/), there you can learn more about Ansible, Terraform, Docker, Kubernetes, Linux and more:
 
 - 11/2021 [Como eu contribuo com projetos Open-Source de DevOps no Github](https://amauryborgesouza.medium.com/como-eu-contribuo-com-projetos-open-source-de-devops-no-github-9e7705a24715)
 - 11/2021 [(IaC) Parte 6: Provisionando um DigitalOcean Droplet com Terraform](https://amauryborgesouza.medium.com/iac-parte-6-provisionando-um-digitalocean-droplet-com-terraform-120d232d0bba)
@@ -23,9 +23,7 @@ Below you can read some post developed by me on Medium blog, you can learn more 
 
 ## Recent open source projects
 
-I developed several automations on AWS/DigitalOcean Cloud to provisioning resources using Terraform (IaC) and Ansible (CG)
-
-You can find them on my [GitHub profile](https://github.com/amaurybsouza):
+I developed several automations on [Github](https://github.com/amaurybsouza) AWS/DigitalOcean Cloud to provisioning resources using Terraform and Ansible:
 
 - [terraform-aws-ec2](https://github.com/Terraform-Tutorials/terraform-aws-ec2)
 - [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating): Integrate OTRS 6 (Ticket Management) with Zabbix.
