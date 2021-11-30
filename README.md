@@ -4,14 +4,11 @@ Actually I'm working as a Senior Linux Administrator at Kyndryl, with experience
 
 Over the course of my career, I have developed notable projects with strong adoption in the IT community, around Linux, Shell Scripts, Ansible and Terraform.
 
-- Follow me [on Twitter](https://twitter.com/amaurybsouza_)
-- Read my blog [on Medium](https://amauryborgesouza.medium.com/)
-- Browse my projects [on GitHub](https://github.com/amaurybsouza)
-- See my DevOps talks [on Speackerdeck](https://speakerdeck.com/amaurybsouza)
+## Latest articles (Medium Blog)
 
+Below you can read some post developed by me on Medium blog, you can learn more about Ansible, Terraform, Docker, Kubernetes, Linux and more:
 
-## Latest articles
-
+- 11/2021 [Como eu contribuo com projetos Open-Source de DevOps no Github](https://amauryborgesouza.medium.com/como-eu-contribuo-com-projetos-open-source-de-devops-no-github-9e7705a24715)
 - 11/2021 [(IaC) Parte 6: Provisionando um DigitalOcean Droplet com Terraform](https://amauryborgesouza.medium.com/iac-parte-6-provisionando-um-digitalocean-droplet-com-terraform-120d232d0bba)
 - 11/2021 [Conheça 5 livros sobre a cultura DevOps que todo entusiasta precisa ler](https://amauryborgesouza.medium.com/conhe%C3%A7a-5-livros-sobre-a-cultura-devops-que-todo-entusiasta-precisa-ler-4d47ddfba9fe)
 - 10/2021 [Visual Studio Code para Web](https://amauryborgesouza.medium.com/visual-studio-code-para-web-e5353e219342)
