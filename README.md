@@ -26,17 +26,18 @@ Below you can check some posts developed by me on [Medium](https://amauryborgeso
 I have developed several automations on [Github](https://github.com/amaurybsouza) about the AWS & DigitalOcean providers to provisioning resources using Terraform, Ansible, Docker and  other tools around DevOps:
 
 - [DevOps Cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet) - most commonly and used commands for easy reference around DevOps tools
+- [DevOps Exercises](https://github.com/amaurybsouza/devops-exercises) - DevOps interview questions about several tools
 - [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating) - Integrate OTRS 6 (Ticket Management) with Zabbix
 - [terraform-digitalocean-dropletPublic](https://github.com/amaurybsouza/terraform-digitalocean-droplet) - Deploying a DigitalOcean Droplet using Terraform
 - [iac-practice](https://github.com/amaurybsouza/iac-practice) - Terraform + Ansible to provision an EC2 on AWS Cloud and install Docker.
 - [terraform-aws-s3](https://github.com/amaurybsouza/terraform-aws-s3) - Provisioning a S3 Bucket on AWS Cloud using the best practices of Terraform.
 
-## Latest DevOps courses (updating for now)
+## Latest DevOps courses
 
 I did many DevOps courses during my carreer on several platforms like, Udemy, LinuxTips, Alura, Linkedin Learning:
 
-- 10/2019: [Ansible for SysAdmins](https://www.udemy.com/certificate/UC-YYGZ9YAA/)
-- 11/2019: [Docker from zero - Introduction to Container Management](https://www.udemy.com/certificate/UC-BPOWAKUP/)
+- 10/2019 - [Ansible for SysAdmins](https://www.udemy.com/certificate/UC-YYGZ9YAA/)
+- 11/2019 - [Docker from zero - Introduction to Container Management](https://www.udemy.com/certificate/UC-BPOWAKUP/)
 
 
 ## Viva o Linux contributions
