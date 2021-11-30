@@ -1,8 +1,7 @@
 Hi, I'm Amaury, a Linux expert with over 8+ years of experience in on-premises IT infrastructure. 
 
-Actually I'm working as a Senior Linux Administrator at Kyndryl, with experience in Linux (patching, troubleshooting, networking, filesystems), VMware, Ansible, Red Hat Satellite, Shell Scripting, Regex and several tools to administrate the Linux servers and the IT infrastructure.
+Senior Linux Administrator experienced at IT infrastructure, like Linux (patching, troubleshooting, networking, filesystems), VMware, Ansible, Red Hat Satellite, Shell Scripting, Regex and several tools to administrate the Linux servers and the infrastructure. When not working at my day job you can find me teaching, giving presentations about Linux, Ansible, Terraform and DevOps in general. Over the course of my career, I have developed notable projects with strong adoption in the IT community, around Linux, Shell Scripts, Ansible and Terraform.
 
-Over the course of my career, I have developed notable projects with strong adoption in the IT community, around Linux, Shell Scripts, Ansible and Terraform.
 
 ## Latest articles
 
@@ -32,29 +31,30 @@ I have developed several automations on [Github](https://github.com/amaurybsouza
 - [iac-practice](https://github.com/amaurybsouza/iac-practice) - Terraform + Ansible to provision an EC2 on AWS Cloud and install Docker.
 - [terraform-aws-s3](https://github.com/amaurybsouza/terraform-aws-s3) - Provisioning a S3 Bucket on AWS Cloud using the best practices of Terraform.
 
+
 ## Latest DevOps courses
 
-I did many DevOps courses during my carreer on several platforms like, Udemy, LinuxTips, Alura, Linkedin Learning:
+I did many DevOps courses during my carreer on several platforms like, Udemy, LinuxTips, Alura, Linkedin Learning. Below you can check some certificates around Linux, Ansible, Shell Script, Terraform, Docker, Git, Github and more:
 
 - 10/2019 - [Ansible for SysAdmins](https://www.udemy.com/certificate/UC-YYGZ9YAA/)
 - 11/2019 - [Docker from zero - Introduction to Container Management](https://www.udemy.com/certificate/UC-BPOWAKUP/)
+- 09/2018 - [Preparatório para Certificação Linux LPIC-1 | Atualizado V5](https://www.udemy.com/certificate/UC-AUYUHCJ7/)
+- 11/2018 - [Programação Shell Script - Automatizando Rotinas no Linux](https://www.udemy.com/certificate/UC-R87P46WJ/)
 
 
-## Viva o Linux contributions
+## IT community contributions
 
-I developed several articles and { Shell Scripts } for the Linux community.
+I have developed several articles and Shell Scripts for the Linux community on [Viva o Linux](https://www.vivaolinux.com.br)
 
-You can find them on [Viva o Linux](https://www.vivaolinux.com.br):
-
-- 09/2020 [Trilha Filesystems Linux - Operação de Sistemas de Arquivos](https://www.vivaolinux.com.br/artigo/Trilha-Filesystems-Linux-Operacao-de-Sistemas-de-Arquivos/)
-- 09/2019 [Principais Comandos de Gestão e Prioridade de Processos no Linux](https://www.vivaolinux.com.br/artigo/Principais-Comandos-de-Gestao-e-Prioridade-de-Processos-no-Linux/)
-- 11/2018 [Sistema de gerenciamento de logs do Linux](https://www.vivaolinux.com.br/artigo/Sistema-de-gerenciamento-de-logs-do-Linux/)
-- 11/2018 [Gerenciamento de pacotes Debian - principais comandos LPIC-1](https://www.vivaolinux.com.br/artigo/Gerenciamento-de-pacotes-Debian-principais-comandos-LPIC-1/)
-- 11/2018 [Gerenciamento de usuários e grupos no Linux - LPIC-102](https://www.vivaolinux.com.br/dica/Gerenciamento-de-usuarios-e-grupos-no-Linux-LPIC-102/)
-- 06/2020 [Backup de diretórios do sistema Linux](https://www.vivaolinux.com.br/script/Backup-de-diretorios-do-sistema-Linux/)
-- 05/2020 [Gerenciamento com firewalld no CentOS 7](https://www.vivaolinux.com.br/script/Gerenciamento-com-firewalld-no-CentOS-7/)
-- 09/2019 [Instalação do LAMP no Linux Ubuntu](https://www.vivaolinux.com.br/script/Instalacao-do-LAMP-no-Linux-Ubuntu/)
-- 09/2019 [Gerenciamento de software e hardware de desktop](https://www.vivaolinux.com.br/script/Gerenciamento-de-software-e-hardware-de-desktop/)
+- 06/2020 - [Backup de diretórios do sistema Linux](https://www.vivaolinux.com.br/script/Backup-de-diretorios-do-sistema-Linux/)
+- 05/2020 - [Gerenciamento com firewalld no CentOS 7](https://www.vivaolinux.com.br/script/Gerenciamento-com-firewalld-no-CentOS-7/)
+- 09/2020 - [Trilha Filesystems Linux - Operação de Sistemas de Arquivos](https://www.vivaolinux.com.br/artigo/Trilha-Filesystems-Linux-Operacao-de-Sistemas-de-Arquivos/)
+- 09/2019 - [Principais Comandos de Gestão e Prioridade de Processos no Linux](https://www.vivaolinux.com.br/artigo/Principais-Comandos-de-Gestao-e-Prioridade-de-Processos-no-Linux/)
+- 09/2019 - [Instalação do LAMP no Linux Ubuntu](https://www.vivaolinux.com.br/script/Instalacao-do-LAMP-no-Linux-Ubuntu/)
+- 09/2019 - [Gerenciamento de software e hardware de desktop](https://www.vivaolinux.com.br/script/Gerenciamento-de-software-e-hardware-de-desktop/)
+- 11/2018 - [Sistema de gerenciamento de logs do Linux](https://www.vivaolinux.com.br/artigo/Sistema-de-gerenciamento-de-logs-do-Linux/)
+- 11/2018 - [Gerenciamento de pacotes Debian - principais comandos LPIC-1](https://www.vivaolinux.com.br/artigo/Gerenciamento-de-pacotes-Debian-principais-comandos-LPIC-1/)
+- 11/2018 - [Gerenciamento de usuários e grupos no Linux - LPIC-102](https://www.vivaolinux.com.br/dica/Gerenciamento-de-usuarios-e-grupos-no-Linux-LPIC-102/)
 
 
 ## Previous work
@@ -70,9 +70,11 @@ During my time at IBM, I have started and shipped projects like:
 - Automate several procedures using Ansible (Confguration as Code).
 - Perform the automation of filesystem /var and /var/log 
 
+
 ## Contact
 
 Best way to get a hold of me is to message me [on Linkedin](https://www.linkedin.com/in/amaurybsouza/). If that doesn't work out, email me at address [amauryborgesouza@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=someone@example.com&su=SUBJECT&body=BODY&bcc=someone.else@example.com).
+
 
 ## Support
 
