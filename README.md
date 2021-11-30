@@ -46,7 +46,7 @@ I did many DevOps courses during my carreer on several platforms like, Udemy, Li
 
 ## IT community contributions
 
-I have developed several articles and Shell Scripts for the Linux community on [Viva o Linux](https://www.vivaolinux.com.br)
+I have developed several articles and Shell Scripts for the Linux community on [Viva o Linux](https://www.vivaolinux.com.br). Feel free to comment or replying me on those automations at Linux forum:
 
 - 06/2020 - [Backup de diretórios do sistema Linux](https://www.vivaolinux.com.br/script/Backup-de-diretorios-do-sistema-Linux/)
 - 05/2020 - [Gerenciamento com firewalld no CentOS 7](https://www.vivaolinux.com.br/script/Gerenciamento-com-firewalld-no-CentOS-7/)
