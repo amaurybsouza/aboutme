@@ -38,7 +38,7 @@ You can find them on my [GitHub profile](https://github.com/amaurybsouza):
 
 ## Latest DevOps courses (updating for now)
 
-I did many DevOps courses during my carreer on seberal platforms like, Udemy, LinuxTips, Alura, Linkedin Learning:
+I did many DevOps courses during my carreer on several platforms like, Udemy, LinuxTips, Alura, Linkedin Learning:
 
 - 10/2019: [Ansible for SysAdmins](https://www.udemy.com/certificate/UC-YYGZ9YAA/)
 - 11/2019: [Docker from zero - Introduction to Container Management](https://www.udemy.com/certificate/UC-BPOWAKUP/)
