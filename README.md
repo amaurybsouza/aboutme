@@ -38,6 +38,7 @@ I have developed several automations on [Github](https://github.com/amaurybsouza
 
 I did many DevOps courses during my carreer on several platforms like, Udemy, LinuxTips, Alura, Linkedin Learning. Below you can check some certificates around Linux, Ansible, Shell Script, Terraform, Docker, Git, Github and more:
 
+- 11/2021 - [Git and Github Essential for Developers"](https://kyndryl.udemy.com/certificate/UC-f16443db-4d36-4577-95ab-238e54048a2f/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email)
 - 10/2019 - [Ansible for SysAdmins](https://www.udemy.com/certificate/UC-YYGZ9YAA/)
 - 11/2019 - [Docker from zero - Introduction to Container Management](https://www.udemy.com/certificate/UC-BPOWAKUP/)
 - 09/2018 - [Preparatório para Certificação Linux LPIC-1](https://www.udemy.com/certificate/UC-AUYUHCJ7/)
