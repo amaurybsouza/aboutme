@@ -36,7 +36,7 @@ I have developed several automations on [Github](https://github.com/amaurybsouza
 
 ## Latest DevOps courses
 
-I did many DevOps courses during my carreer on several platforms like, Udemy, LinuxTips, Alura, Linkedin Learning. Below you can check some certificates around Linux, Ansible, Shell Script, Terraform, Docker, Git, Github and more:
+I did many DevOps courses during my carreer on several platforms like, Udemy, LinuxTips, Alura, Linkedin Learning. Below you can check some certificates around IT Infrastructure:
 
 - 12/2021 - [HashiCorp Terraform na Prática com Digital Ocean [v0.15.0]](https://www.udemy.com/certificate/UC-afe8fa93-e550-40e7-99ea-81d8d96b18ff/)
 - 11/2021 - [Git and Github Essential for Developers"](https://www.udemy.com/certificate/UC-f16443db-4d36-4577-95ab-238e54048a2f/)
