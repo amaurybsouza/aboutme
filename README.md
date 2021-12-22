@@ -9,6 +9,7 @@ When not working at my day job you can find me teaching, giving presentations ab
 
 Below you can check some posts developed by me on [Medium](https://amauryborgesouza.medium.com/), there you can learn more about Ansible, Terraform, Docker, Kubernetes, Linux and more:
 
+- 12/2021 - [Terraform import: uma ferramenta que o DevOps Engineer ama demais](https://amauryborgesouza.medium.com/terraform-import-uma-ferramenta-que-o-devops-engineer-ama-demais-e30abf8d5a37)
 - 11/2021 - [Como eu contribuo com projetos Open-Source de DevOps no Github](https://amauryborgesouza.medium.com/como-eu-contribuo-com-projetos-open-source-de-devops-no-github-9e7705a24715)
 - 11/2021 - [(IaC) Parte 6: Provisionando um DigitalOcean Droplet com Terraform](https://amauryborgesouza.medium.com/iac-parte-6-provisionando-um-digitalocean-droplet-com-terraform-120d232d0bba)
 - 11/2021 - [Conheça 5 livros sobre a cultura DevOps que todo entusiasta precisa ler](https://amauryborgesouza.medium.com/conhe%C3%A7a-5-livros-sobre-a-cultura-devops-que-todo-entusiasta-precisa-ler-4d47ddfba9fe)
@@ -19,13 +20,13 @@ Below you can check some posts developed by me on [Medium](https://amauryborgeso
 - 08/2021 - [Como passei no exame AWS Certified Cloud Practitioner (CLF)](https://amauryborgesouza.medium.com/como-passei-no-exame-aws-certified-cloud-practitioner-clf-f2237aa4460f)
 - 12/2020 - [(Trilha LPIC): Parte 2— Planejamento de Capacidade com Linux](https://amauryborgesouza.medium.com/trilha-lpic-parte-2-planejamento-de-capacidade-com-linux-a6e2f9439c7d)
 - 12/2020 - [(Trilha LPIC): Parte 1 — Planejamento de Capacidade com Linux](https://amauryborgesouza.medium.com/trilha-lpic-parte-1-planejamento-de-capacidade-com-linux-a006d0736539)
-- 12/2020 - [Custom facts em Ansible. ME SOLTA! Quero personalizar minhas tasks…](https://amauryborgesouza.medium.com/custom-facts-em-ansible-me-solta-quero-personalizar-minhas-tasks-4718b48b88aa)
 
 
 ## Recent open source projects
 
 I have developed several automations on [Github](https://github.com/amaurybsouza) about the AWS & DigitalOcean providers to provisioning resources using Terraform, Ansible, Docker and  other tools around DevOps:
 
+- [Terraform-Tutorials/terraform-module-aws-ec2](https://github.com/Terraform-Tutorials/terraform-module-aws-ec2) - Terraform best practices like variables and modules.
 - [devops cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet) - Most commonly and used commands for easy reference around DevOps tools
 - [devops exercises](https://github.com/amaurybsouza/devops-exercises) - DevOps interview questions about several tools
 - [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating) - Integrate OTRS 6 (Ticket Management) with Zabbix
