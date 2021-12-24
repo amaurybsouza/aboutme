@@ -72,7 +72,7 @@ Also, in the past experiences, I have installed and configured the Zabbix and Gr
 
 During my time at IBM, I have started and shipped projects like:
 
-- SBC (Secure Baseline Configuration on Red Hat Enterprise Linux).
+- SBC (Secure Baseline Configuration on Red Hat Enterprise Linux servers).
 - Centrify Upgrade (Updating the Centrify Agent using Ansible Playbooks).
 - Automate several procedures using Ansible (Confguration as Code).
 - Perform the automation of filesystem /var and /var/log 
