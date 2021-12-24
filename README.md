@@ -1,6 +1,6 @@
 Hi, I'm Amaury, a Linux expert with over 8+ years of experience in on-premises IT infrastructure. 
 
-Senior Linux Administrator experienced on IT infrastructure, like Linux (patching, troubleshooting, networking, filesystems), VMware, Ansible, Red Hat Satellite, Shell Scripting, Regex and several tools to managing the Linux servers and the infrastructure. 
+Senior Linux Administrator experienced on IT infrastructure, like Linux servers (patching, troubleshooting, networking, filesystems), VMware, Ansible, Red Hat Satellite, Shell Scripting, Regex and several tools to managing the Linux servers and the infrastructure. 
 
 When not working at my day job you can find me teaching, giving presentations about Linux, Ansible, Terraform and DevOps in general. Over the course of my career, I have developed notable projects with strong adoption in the IT community, around Linux, Shell Scripts, Ansible and Terraform.
 
