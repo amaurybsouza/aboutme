@@ -70,7 +70,7 @@ Previously, I worked at IBM as a Linux Administrator, improving the infrastructu
 
 Also, in the past experiences, I have installed and configured the Zabbix and Grafana to monitoring the infrastructure, I have created several scripts (Bash) to automate the routine in the PROD/TEST servers, and I have worked with network team to ensure the network environment (datacenter) is working fine.
 
-During my time at IBM, I have started and shipped projects like:
+During my time at IBM, I have started and shipped some projects like:
 
 - SBC (Secure Baseline Configuration on Red Hat Enterprise Linux servers).
 - Centrify Upgrade (Updating the Centrify Agent using Ansible Playbooks).
