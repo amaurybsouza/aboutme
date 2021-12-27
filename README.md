@@ -66,7 +66,7 @@ I have developed several articles and Shell Scripts for the Linux community on [
 
 ## Previous work
 
-Previously, I worked at IBM as a Linux Administrator, improving the infrastructure and services for our customers by using advanced DevOps tools, setting up infrastructure tools (i.e. Ansible, Satellite, Linux, Shell Scrupt), creating and maintaining IT documentation and other assets.
+Previously, I worked at [IBM](https://www.ibm.com/br-pt) as a Linux Administrator, improving the infrastructure and services for our customers by using advanced DevOps tools, setting up infrastructure tools (i.e. Ansible, Satellite, Linux, Shell Scrupt), creating and maintaining IT documentation and other assets.
 
 Also, in the past experiences, I have installed and configured the Zabbix and Grafana to monitoring the infrastructure, I have created several scripts (Bash) to automate the routine in the PROD/TEST servers, and I have worked with network team to ensure the network environment (datacenter) is working fine.
 
