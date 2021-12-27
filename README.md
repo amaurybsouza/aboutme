@@ -26,9 +26,9 @@ Below you can check some posts developed by me on [Medium](https://amauryborgeso
 
 I have developed several automations on [Github](https://github.com/amaurybsouza) about the AWS & DigitalOcean providers to provisioning resources using Terraform, Ansible, Docker and  other tools around DevOps:
 
-- [Terraform-Tutorials/terraform-import-aws-s3](https://github.com/Terraform-Tutorials/terraform-import-aws-s3)
-- [Terraform-Tutorials/terraform-aws-ec2-ansible-deploy](https://github.com/Terraform-Tutorials/terraform-aws-ec2-ansible-deploy)
-- [Terraform-Tutorials/terraform-local-exec-outputting](https://github.com/Terraform-Tutorials/terraform-local-exec-outputting)
+- [Terraform-Tutorials/terraform-import-aws-s3](https://github.com/Terraform-Tutorials/terraform-import-aws-s3) - Terraform import command to deploy an AWS S3 Bucket.
+- [Terraform-Tutorials/terraform-aws-ec2-ansible-deploy](https://github.com/Terraform-Tutorials/terraform-aws-ec2-ansible-deploy) - Deploying a Docker using Terraform and Ansible together.
+- [Terraform-Tutorials/terraform-local-exec-outputting](https://github.com/Terraform-Tutorials/terraform-local-exec-outputting) - Example to show how you can use the local and output features on Terraform.
 - [Terraform-Tutorials/terraform-module-aws-ec2](https://github.com/Terraform-Tutorials/terraform-module-aws-ec2) - Terraform best practices like variables and modules.
 - [devops cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet) - Most commonly and used commands for easy reference around DevOps tools
 - [devops exercises](https://github.com/amaurybsouza/devops-exercises) - DevOps interview questions about several tools
