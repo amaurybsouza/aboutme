@@ -1,4 +1,4 @@
-Hi, I'm Amaury, a Linux Expert a.k.a I.E with over 8+ years of experience in on-premises IT infrastructure. 
+Hi, I'm Amaury, a Linux Expert (a.k.a I.E) with over 8+ years of experience in on-premises IT infrastructure. 
 
 Senior Linux Administrator experienced on IT infrastructure, like Linux servers (patching, troubleshooting, networking, filesystems), VMware, Ansible, Red Hat Satellite, Shell Scripting, Regex and several tools to managing the Linux servers and the infrastructure. 
 
