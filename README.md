@@ -41,6 +41,7 @@ I have developed several automations on [Github](https://github.com/amaurybsouza
 
 I did many DevOps courses during my carreer on several platforms like, Udemy, LinuxTips, Alura, Linkedin Learning. Below you can check some certificates around IT Infrastructure:
 
+- 01/2022 - [AWS para administradores de sistemas e profissionais de TI](https://www.udemy.com/certificate/UC-bffcf718-9d78-47fb-ac11-7e1e973af13c/)
 - 12/2021 - [AWS essencial com Terraform e Spring Boot](https://www.udemy.com/certificate/UC-445d49eb-900d-4ca3-93a0-d7cebb056af2/)
 - 12/2021 - [Ansible for the Absolute Beginner - Hands-On - DevOps](https://www.udemy.com/certificate/UC-6c94c794-60b6-43fe-b7e1-a1a8e9c2d579/)
 - 12/2021 - [HashiCorp Terraform na Prática com Digital Ocean [v0.15.0]](https://www.udemy.com/certificate/UC-afe8fa93-e550-40e7-99ea-81d8d96b18ff/)
