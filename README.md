@@ -9,6 +9,7 @@ When not working at my day job you can find me teaching, giving presentations ab
 
 Below you can check some posts developed by me on [Medium](https://amauryborgesouza.medium.com/), there you can learn more about Ansible, Terraform, Docker, Kubernetes, Linux and more:
 
+- 12/2021 - [SRE/DevOps 2022: quais serão as tendências do mercado na área?](https://amauryborgesouza.medium.com/sre-devops-2022-quais-ser%C3%A3o-as-tend%C3%AAncias-do-mercado-na-%C3%A1rea-b184b1b55a0f?p=b184b1b55a0f)
 - 12/2021 - [Terraform import: uma ferramenta que o DevOps Engineer ama demais](https://amauryborgesouza.medium.com/terraform-import-uma-ferramenta-que-o-devops-engineer-ama-demais-e30abf8d5a37)
 - 11/2021 - [Como eu contribuo com projetos Open-Source de DevOps no Github](https://amauryborgesouza.medium.com/como-eu-contribuo-com-projetos-open-source-de-devops-no-github-9e7705a24715)
 - 11/2021 - [(IaC) Parte 6: Provisionando um DigitalOcean Droplet com Terraform](https://amauryborgesouza.medium.com/iac-parte-6-provisionando-um-digitalocean-droplet-com-terraform-120d232d0bba)
@@ -18,8 +19,6 @@ Below you can check some posts developed by me on [Medium](https://amauryborgeso
 - 10/2021 - [Como eu uso o Notion para planejar meu roadmap de estudos em DevOps](https://amauryborgesouza.medium.com/como-eu-uso-o-notion-para-planejar-meu-roadmap-de-estudos-em-devops-4417f978f686)
 - 10/2021 - [Como estudar Docker containers com Play with Docker (Browser-Based)](https://amauryborgesouza.medium.com/como-estudar-docker-containers-com-play-with-docker-browser-based-da6e1d05b50b)
 - 08/2021 - [Como passei no exame AWS Certified Cloud Practitioner (CLF)](https://amauryborgesouza.medium.com/como-passei-no-exame-aws-certified-cloud-practitioner-clf-f2237aa4460f)
-- 12/2020 - [(Trilha LPIC): Parte 2— Planejamento de Capacidade com Linux](https://amauryborgesouza.medium.com/trilha-lpic-parte-2-planejamento-de-capacidade-com-linux-a6e2f9439c7d)
-- 12/2020 - [(Trilha LPIC): Parte 1 — Planejamento de Capacidade com Linux](https://amauryborgesouza.medium.com/trilha-lpic-parte-1-planejamento-de-capacidade-com-linux-a006d0736539)
 
 
 ## Recent open source projects
