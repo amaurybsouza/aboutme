@@ -27,7 +27,7 @@ I have developed several automations on [Github](https://github.com/amaurybsouza
 
 - [terraform-import-aws-s3](https://github.com/Terraform-Tutorials/terraform-import-aws-s3) - Terraform import command to deploy an AWS S3 Bucket.
 - [terraform-aws-ec2-ansible-deploy](https://github.com/Terraform-Tutorials/terraform-aws-ec2-ansible-deploy) - Deploying a Docker using Terraform and Ansible together.
-- [terraform-local-exec-outputting](https://github.com/Terraform-Tutorials/terraform-local-exec-outputting) - Example to show how you can use the local and output features on Terraform.
+- [terraform-local-exec-outputting](https://github.com/Terraform-Tutorials/terraform-local-exec-outputting) - How you can use the local and output features on Terraform.
 - [terraform-module-aws-ec2](https://github.com/Terraform-Tutorials/terraform-module-aws-ec2) - Terraform best practices like variables and modules.
 - [devops cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet) - Most commonly and used commands for easy reference around DevOps tools
 - [devops exercises](https://github.com/amaurybsouza/devops-exercises) - DevOps interview questions about several tools
@@ -39,7 +39,7 @@ I have developed several automations on [Github](https://github.com/amaurybsouza
 
 ## Latest DevOps courses
 
-I did many DevOps courses during my carreer on several platforms like, Udemy, LinuxTips, Alura, Linkedin Learning. Below you can check some certificates around IT Infrastructure:
+I did many DevOps courses during my carreer on several platforms like, Udemy, LinuxTips, Alura, Linkedin Learning. Below you can check some certificates around SRE/DevOps:
 
 - 01/2022 - [Escalando uma aplicação na AWS passo a passo](https://www.udemy.com/certificate/UC-ff476ef3-51c5-4be7-8924-a78b32f07073/)
 - 01/2022 - [AWS para administradores de sistemas e profissionais de TI](https://www.udemy.com/certificate/UC-bffcf718-9d78-47fb-ac11-7e1e973af13c/)
