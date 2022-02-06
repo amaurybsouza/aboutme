@@ -51,8 +51,6 @@ I did many DevOps courses during my carreer on several platforms like, Udemy, Li
 - 10/2019 - [Ansible for SysAdmins](https://www.udemy.com/certificate/UC-YYGZ9YAA/)
 - 11/2019 - [Docker from zero - Introduction to Container Management](https://www.udemy.com/certificate/UC-BPOWAKUP/)
 - 09/2018 - [Preparatório para Certificação Linux LPIC-1](https://www.udemy.com/certificate/UC-AUYUHCJ7/)
-- 11/2018 - [Programação Shell Script - Automatizando Rotinas no Linux](https://www.udemy.com/certificate/UC-R87P46WJ/)
-
 
 ## IT community contributions
 
