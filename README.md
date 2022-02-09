@@ -41,6 +41,7 @@ I have developed several automations on [Github](https://github.com/amaurybsouza
 
 I did many DevOps courses during my carreer on several platforms like, Udemy, LinuxTips, Alura, Linkedin Learning. Below you can check some certificates around SRE/DevOps:
 
+- 02/2022 - [Docker para Desenvolvedores (com Docker Swarm e Kubernetes)](http://ude.my/UC-54319ead-6091-4745-a452-1a983b580375)
 - 02/2022 - [DevOps: AWS com Terraform Automatizando sua infraestrutura](https://www.udemy.com/certificate/UC-c488a961-c184-4588-ae9a-f1e5a4790c44/)
 - 01/2022 - [Escalando uma aplicação na AWS passo a passo](https://www.udemy.com/certificate/UC-ff476ef3-51c5-4be7-8924-a78b32f07073/)
 - 01/2022 - [AWS para administradores de sistemas e profissionais de TI](https://www.udemy.com/certificate/UC-bffcf718-9d78-47fb-ac11-7e1e973af13c/)
@@ -50,7 +51,6 @@ I did many DevOps courses during my carreer on several platforms like, Udemy, Li
 - 11/2021 - [Git and Github Essential for Developers"](https://www.udemy.com/certificate/UC-f16443db-4d36-4577-95ab-238e54048a2f/)
 - 10/2019 - [Ansible for SysAdmins](https://www.udemy.com/certificate/UC-YYGZ9YAA/)
 - 11/2019 - [Docker from zero - Introduction to Container Management](https://www.udemy.com/certificate/UC-BPOWAKUP/)
-- 09/2018 - [Preparatório para Certificação Linux LPIC-1](https://www.udemy.com/certificate/UC-AUYUHCJ7/)
 
 ## IT community contributions
 
