@@ -1,4 +1,4 @@
-Hi, I'm Amaury, a Systems Engineer, focused on IaC, automation and everything involves DevOps culture with over 8+ years of experience in IT infrastructure. 
+Hi, I'm Amaury, a Systems Engineer, focused on IaC, automation and everything involves DevOps culture with over 8+ years of experience on IT infrastructure. 
 
 IT professional experienced on infrastructure (on-premise environment), like Linux servers (patching, troubleshooting, networking, filesystems), VMware, Ansible, Red Hat Satellite, Shell Scripting, Regex and several tools to managing the Linux servers and the infrastructure. 
 
