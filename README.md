@@ -40,8 +40,8 @@ I have developed several automations on [Github](https://github.com/amaurybsouza
 
 I have participated in some events and meetups related DevOps and other Ops role like, Kubecon, Docker, DevOps Days Below you can check some events around SRE/DevOps:
 
-- 02/2022: [Meetup SRE Brasil (virtual)](https://www.meetup.com/SREBrasil/)
-- 01/2022: [KCD Brasil (virtual)](https://twitter.com/kcdbrasil)
+- 02/2022: [Meetup SRE Brasil](https://www.meetup.com/SREBrasil/) - virtual - (Definição da agenda de 2022 - Kickoff)
+- 01/2022: [KCD Brasil](https://twitter.com/kcdbrasil) - virtual - (Several talks about Kubernetes, Cloud Native Applications)
 
 ## Latest DevOps courses
 
