@@ -36,6 +36,12 @@ I have developed several automations on [Github](https://github.com/amaurybsouza
 - [iac-practice](https://github.com/amaurybsouza/iac-practice) - Terraform + Ansible to provision an EC2 on AWS Cloud and install Docker.
 - [terraform-aws-s3](https://github.com/amaurybsouza/terraform-aws-s3) - Provisioning a S3 Bucket on AWS Cloud using the best practices of Terraform.
 
+## Recent IT events/meetups
+
+I have participated in some events and meetups related DevOps and other Ops role like, Kubecon, Docker, DevOps Days Below you can check some events around SRE/DevOps:
+
+- 02/2022: [Meetup SRE Brasil (virtual)](https://www.meetup.com/SREBrasil/)
+- 01/2022: [KCD Brasil (virtual)](https://twitter.com/kcdbrasil)
 
 ## Latest DevOps courses
 
