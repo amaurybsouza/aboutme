@@ -40,11 +40,13 @@ I have developed several automations on [Github](https://github.com/amaurybsouza
 
 I have participated in some events and meetups related to DevOps like, KCD Brazil, DevOps Day. Below you can check some events around SRE/DevOps:
 
-- 09/2021: [Como gerenciar código com Git](https://www.youtube.com/watch?v=uh4oANEA-lo&ab_channel=Fabr%C3%ADcioVeronezKubeDev)
+- 02/2022: [Meetup SRE Brasil](https://www.meetup.com/SREBrasil/) - virtual
+- 01/2022: [Carreira na Cloud, por onde eu começo?](https://www.youtube.com/watch?v=VJ53PFSUbtc) - virtual
+- 01/2022: [KCD Brasil](https://twitter.com/kcdbrasil) - virtual
 - 11/2021: [Bem vindo ao Hands-On Especial Ansible](https://www.youtube.com/watch?v=9Lx6bCs4nJo&ab_channel=4LinuxOpenSoftwareSpecialists) - virtual
-- 02/2022: [Meetup SRE Brasil](https://www.meetup.com/SREBrasil/) - (Schedule definition of 2022 - Kickoff) - virtual
-- 01/2022: [KCD Brasil](https://twitter.com/kcdbrasil) - (Several talks about Kubernetes, Cloud Native Applications) - virtual
-- 01/2022: [DevOps Campinas] - (CoffeeOps talks about anything related to remote work, DevOps, Kubernetes and Automation)
+- 09/2021: [Mesa DevOps - Como começar com containers](https://www.youtube.com/watch?v=6YfWh8nPcRY) - virtual
+- 09/2021: [Como gerenciar código com Git](https://www.youtube.com/watch?v=uh4oANEA-lo&ab_channel=Fabr%C3%ADcioVeronezKubeDev) - virtual
+- 07/2021: [SRE e DevOps no mundo real na Stone Pagamentos](https://www.youtube.com/watch?v=q-68OyzfiAU) - virtual
 
 ## Latest DevOps courses
 
