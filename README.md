@@ -41,7 +41,6 @@ I have developed several automations on [Github](https://github.com/amaurybsouza
 I have participated in some events and meetups related to DevOps like, KCD Brazil, [DevOps Days](https://devopsdays.org/) and several others. Below you can check some events around SRE/DevOps:
 
 - 02/2022: [Meetup SRE Brasil](https://www.meetup.com/SREBrasil/) - virtual
-- 01/2022: [Introdução a Linux](https://www.youtube.com/watch?v=WSmH1Woix9g)
 - 01/2022: [Carreira na Cloud, por onde eu começo?](https://www.youtube.com/watch?v=VJ53PFSUbtc) - virtual
 - 01/2022: [KCD Brasil](https://twitter.com/kcdbrasil) - virtual
 - 11/2021: [Bem vindo ao Hands-On Especial Ansible](https://www.youtube.com/watch?v=9Lx6bCs4nJo&ab_channel=4LinuxOpenSoftwareSpecialists) - virtual
@@ -49,6 +48,8 @@ I have participated in some events and meetups related to DevOps like, KCD Brazi
 - 09/2021: [Como gerenciar código com Git](https://www.youtube.com/watch?v=uh4oANEA-lo&ab_channel=Fabr%C3%ADcioVeronezKubeDev) - virtual
 - 07/2021: [SRE e DevOps no mundo real na Stone Pagamentos](https://www.youtube.com/watch?v=q-68OyzfiAU) - virtual
 - 10/2020: [Evolução da Carreira de SysAdmin](https://www.youtube.com/watch?v=VIX351V0unw) - virtual
+- 04/2020: [Rafael Gomex - Melhores práticas para seu pipeline de Infra as Code #FiqueEmCasaConf](https://www.youtube.com/watch?v=XGSuK8kyGag&list=PLf-O3X2-mxDmn0ikyO7OF8sPr2GDQeZXk&index=16&ab_channel=LINUXtips) - virtual
+- 04/2020: [Fernando Ike - DevOps é Cultura ou Ferramenta? #FiqueEmCasaConf](https://www.youtube.com/watch?v=5BgPIETVYSQ&list=PLf-O3X2-mxDmn0ikyO7OF8sPr2GDQeZXk&index=14&ab_channel=LINUXtips) - virtual
 - 04/2020: [Lucas de Souza - Terraform além do básico #FiqueEmCasaConf](https://www.youtube.com/watch?v=P3aY4_vxzWQ&ab_channel=LINUXtips) - virtual
 
 ## Latest DevOps courses
