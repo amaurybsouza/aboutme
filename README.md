@@ -38,7 +38,7 @@ I have developed several automations on [Github](https://github.com/amaurybsouza
 
 ## Events/meetups/podcasts
 
-I have participated in some events and meetups related to DevOps like, [KCD Brazil](https://twitter.com/kcdbrasil), [DevOps Days](https://devopsdays.org/) and several others. Below you can check some events around SRE/DevOps:
+I have participated in some events and meetups related to DevOps like, [KCD Brazil](https://twitter.com/kcdbrasil), [DevOps Days](https://devopsdays.org/), [Kubicast](https://getup.io/kubicast) and several others. Below you can check some events around SRE/DevOps:
 
 - 02/2022: [Meetup SRE Brasil](https://www.meetup.com/SREBrasil/) 
 - 01/2022: [Carreira na Cloud, por onde eu começo?](https://www.youtube.com/watch?v=VJ53PFSUbtc) 
