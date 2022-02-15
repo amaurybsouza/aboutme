@@ -49,6 +49,7 @@ I have participated in some events and meetups related to DevOps like, KCD Brazi
 - 09/2021: [Como gerenciar código com Git](https://www.youtube.com/watch?v=uh4oANEA-lo&ab_channel=Fabr%C3%ADcioVeronezKubeDev) - virtual
 - 07/2021: [SRE e DevOps no mundo real na Stone Pagamentos](https://www.youtube.com/watch?v=q-68OyzfiAU) - virtual
 - 10/2020: [Evolução da Carreira de SysAdmin](https://www.youtube.com/watch?v=VIX351V0unw) - virtual
+- 04/2020: [Lucas de Souza - Terraform além do básico | #FiqueEmCasaConf](https://www.youtube.com/watch?v=P3aY4_vxzWQ&ab_channel=LINUXtips) - virtual
 
 ## Latest DevOps courses
 
