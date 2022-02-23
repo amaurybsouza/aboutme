@@ -56,6 +56,7 @@ I have participated in some events and meetups related to DevOps like, [#FiqueEm
 
 I did many DevOps courses during my carreer on several platforms like, Udemy, LinuxTips, Alura, Linkedin Learning. Below you can check some certificates around SRE/DevOps:
 
+- 02/2022 - [DevOps , CI/CD(Continuous Integration/Delivery for Beginners](https://t.co/MpmJhwyR4F)
 - 02/2022 - [Automation with Ansible Playbooks - Hands-on!](https://www.udemy.com/certificate/UC-58d8c463-e3dc-445f-8f8a-4a6324743367/)
 - 02/2022 - [Docker para Desenvolvedores (com Docker Swarm e Kubernetes)](http://ude.my/UC-54319ead-6091-4745-a452-1a983b580375)
 - 02/2022 - [DevOps: AWS com Terraform Automatizando sua infraestrutura](https://www.udemy.com/certificate/UC-c488a961-c184-4588-ae9a-f1e5a4790c44/)
@@ -65,7 +66,6 @@ I did many DevOps courses during my carreer on several platforms like, Udemy, Li
 - 12/2021 - [Ansible for the Absolute Beginner - Hands-On - DevOps](https://www.udemy.com/certificate/UC-6c94c794-60b6-43fe-b7e1-a1a8e9c2d579/)
 - 12/2021 - [HashiCorp Terraform na Prática com Digital Ocean [v0.15.0]](https://www.udemy.com/certificate/UC-afe8fa93-e550-40e7-99ea-81d8d96b18ff/)
 - 11/2021 - [Git and Github Essential for Developers"](https://www.udemy.com/certificate/UC-f16443db-4d36-4577-95ab-238e54048a2f/)
-- 10/2019 - [Ansible for SysAdmins](https://www.udemy.com/certificate/UC-YYGZ9YAA/)
 
 ## IT community contributions
 
