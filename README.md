@@ -38,7 +38,7 @@ I have developed several automations on [Github](https://github.com/amaurybsouza
 
 ## Events/meetups/podcasts
 
-I have participated in some events and meetups related to DevOps like, [SRE Brasil](https://www.meetup.com/SREBrasil/) [#FiqueEmCasaConf](https://www.youtube.com/watch?v=jke_qf6SgAg&list=PLf-O3X2-mxDmn0ikyO7OF8sPr2GDQeZXk&ab_channel=LINUXtips), [KCD Brazil](https://twitter.com/kcdbrasil), [DevOps Days](https://devopsdays.org/), [Kubicast](https://getup.io/kubicast) and several others. Below you can check some events around SRE/DevOps:
+I have participated in some events and meetups related to DevOps like, [SRE Brasil](https://www.meetup.com/SREBrasil/), [#FiqueEmCasaConf](https://www.youtube.com/watch?v=jke_qf6SgAg&list=PLf-O3X2-mxDmn0ikyO7OF8sPr2GDQeZXk&ab_channel=LINUXtips), [KCD Brazil](https://twitter.com/kcdbrasil), [DevOps Days](https://devopsdays.org/), [Kubicast](https://getup.io/kubicast) and several others. Below you can check some events around SRE/DevOps:
 
 - 02/2022: [Qual o significado de SRE em 2022?](https://www.meetup.com/SREBrasil/events/284175191?response=3&action=rsvp&utm_medium=email&utm_source=braze_canvas&utm_campaign=mmrk_alleng_event_announcement_prod_v4_en&utm_term=promo&utm_content=lp_meetup) 
 - 01/2022: [Carreira na Cloud, por onde eu começo?](https://www.youtube.com/watch?v=VJ53PFSUbtc) 
