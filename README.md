@@ -98,7 +98,7 @@ During my time at IBM, I have started and shipped some projects like:
 
 ## Contact
 
-Best way to get a hold of me is to message me [on Linkedin](https://www.linkedin.com/in/amaurybsouza/). If that doesn't work out, email me at address [amauryborgesouza@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=someone@example.com&su=SUBJECT&body=BODY&bcc=someone.else@example.com).
+Best way to get a hold of me is to message me on [Linkedin](https://www.linkedin.com/in/amaurybsouza/). If that doesn't work out, email me at address [amauryborgesouza@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=someone@example.com&su=SUBJECT&body=BODY&bcc=someone.else@example.com).
 
 
 ## Support
