@@ -54,7 +54,7 @@ I have participated in some events and meetups related to DevOps like, [SRE Bras
 
 ## Latest DevOps courses
 
-I did many DevOps courses during my carreer on several platforms like, Udemy, LinuxTips, Alura, Linkedin Learning. Below you can check some certificates around SRE/DevOps:
+I did many DevOps courses during my carreer on several platforms like, Udemy, LinuxTips, Alura, Linkedin Learning. Below you can check some certificates about SRE/DevOps:
 
 - 02/2022 - [DevOps , CI/CD(Continuous Integration/Delivery for Beginners](https://t.co/MpmJhwyR4F)
 - 02/2022 - [Automation with Ansible Playbooks - Hands-on!](https://www.udemy.com/certificate/UC-58d8c463-e3dc-445f-8f8a-4a6324743367/)
