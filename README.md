@@ -2,7 +2,7 @@ Hi, I'm Amaury, a Systems Engineer, focused on IaC, automation and everything in
 
 IT professional experienced on infrastructure (on-premise environment), like Linux servers (patching, troubleshooting, networking, filesystems), VMware, Ansible, Red Hat Satellite, Shell Scripting, Regex and several tools to managing the Linux servers and the infrastructure. 
 
-When not working at my day job you can find me teaching, giving presentations about Linux, Ansible, Terraform and DevOps in general. Over the course of my career, I have developed notable projects with strong adoption in the IT community, around Linux, Shell Scripts, Ansible and Terraform.
+When not working at my day job you can find me writing DevOps posts on Medium, working on IaC projects Github, giving presentations about Linux, Ansible, Terraform and DevOps in general. Over the course of my career, I have developed notable projects with strong adoption in the IT community, around Linux, Shell Scripts, Ansible and Terraform.
 
 
 ## Latest articles
