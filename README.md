@@ -9,6 +9,7 @@ When not working at my day job you can find me writing DevOps posts on Medium, c
 
 Below you can check some posts developed by me on [Medium](https://amauryborgesouza.medium.com/), there you can learn more about Ansible, Terraform, Docker, Kubernetes, Linux and more:
 
+- 03/2022 - [[Trilha CI/CD]: Provisionando o GitLab em uma instância EC2 da AWS com Terraform e Ansible] (https://amauryborgesouza.medium.com/trilha-ci-cd-provisionando-o-gitlab-em-uma-inst%C3%A2ncia-ec2-da-aws-com-terraform-e-ansible-dcbbfe0ecf7e)
 - 02/2022 - [As boas práticas do Ansible que ninguém te conta e que não existem no Google](https://amauryborgesouza.medium.com/as-boas-pr%C3%A1ticas-do-ansible-que-ningu%C3%A9m-te-conta-e-que-n%C3%A3o-existem-no-google-4fcc3126ad1)
 - 01/2022 - [Criando um cluster Kubernetes com Kind](https://amauryborgesouza.medium.com/criando-um-cluster-kubernetes-com-kind-dc5025748480)
 - 01/2022 - [SRE/DevOps: A STACK para você começar com TUDO em 2022!](https://amauryborgesouza.medium.com/sre-devops-a-stack-para-voc%C3%AA-come%C3%A7ar-com-tudo-em-2022-a85424287344)
@@ -18,8 +19,6 @@ Below you can check some posts developed by me on [Medium](https://amauryborgeso
 - 11/2021 - [(IaC) Parte 6: Provisionando um DigitalOcean Droplet com Terraform](https://amauryborgesouza.medium.com/iac-parte-6-provisionando-um-digitalocean-droplet-com-terraform-120d232d0bba)
 - 11/2021 - [Conheça 5 livros sobre a cultura DevOps que todo entusiasta precisa ler](https://amauryborgesouza.medium.com/conhe%C3%A7a-5-livros-sobre-a-cultura-devops-que-todo-entusiasta-precisa-ler-4d47ddfba9fe)
 - 10/2021 - [Visual Studio Code para Web](https://amauryborgesouza.medium.com/visual-studio-code-para-web-e5353e219342)
-- 10/2021 - [[Docker Swarm]— Parte 1: Como inicializar um cluster no Labs-Play-with-Docker](https://amauryborgesouza.medium.com/docker-swarm-parte-1-como-inicializar-um-cluster-no-labs-play-with-docker-d8d57816a62f)
-
 
 ## Recent open source projects
 
