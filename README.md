@@ -22,7 +22,7 @@ Below you can check some posts developed by me on [Medium](https://amauryborgeso
 
 ## Recent open source projects
 
-I have developed several automations on [Github](https://github.com/amaurybsouza) about the AWS & DigitalOcean providers to provisioning resources using Terraform, Ansible, Docker and  other tools around Infrastructure as Code (IaC):
+I have several of my personal projects on [Github](https://github.com/amaurybsouza), approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers and automation:
 
 - [terraform-import-aws-s3](https://github.com/Terraform-Tutorials/terraform-import-aws-s3) - Terraform import command to deploy an AWS S3 Bucket.
 - [terraform-aws-ec2-ansible-deploy](https://github.com/Terraform-Tutorials/terraform-aws-ec2-ansible-deploy) - Deploying a Docker using Terraform and Ansible together.
