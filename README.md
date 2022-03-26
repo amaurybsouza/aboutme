@@ -1,10 +1,8 @@
 ## Who I am?
 
-Hello, my name is Amaury, I am a Systems Engineer, focused on IaC, automation and Linux with a background in banking and governement environments, I have more than 8 years of experience in support of mission-critical platforms and technical participation of complex projects. My career is based on Ops, and following the evolution of technology on the IT market, I adapted my career adhering to the pillars of DevOps and the premise of automation and collaboration. 
+I’m a System Engineer, Content Creator and Speaker. Focused on Infrastructure as Code (IaC), automation and Linux with a hard background in banking. I have more than 8 years of experience in support of mission-critical platforms and technical participation in complex projects. My career is based in Ops and following the evolution of technology on the IT market, I adapted my career adhering to the pillars of DevOps and the premise of automation and collaboration.
 
-IT professional experienced on infrastructure (on-premise environment), like Linux servers (patching, troubleshooting, networking, filesystems), VMware, Ansible, Red Hat Satellite, Shell Scripting, Regex and several tools to managing the Linux servers and the infrastructure. 
-
-When not working at my day job you can find me writing DevOps posts on Medium, collaborating on Github, giving presentations about Linux, Ansible, Terraform and DevOps in general. Over the course of my career, I have developed notable projects with strong adoption in the IT community, around Linux, Shell Scripts, Ansible and Terraform.
+When not working at my day job you can find me writing about DevOps on Medium, collaborating on GitHub/GitLab, giving presentations about Linux, Ansible, Terraform and DevOps in general. Over the course of my career, I have developed notable projects with strong adoption in the IT community, around Linux, Shell Scripts, Ansible and Terraform.
 
 
 ## Latest articles
