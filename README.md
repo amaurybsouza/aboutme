@@ -7,7 +7,7 @@ When not working at my day job you can find me writing about DevOps on Medium, c
 
 Below you can check some posts developed by me on [Medium](https://amauryborgesouza.medium.com/), there you can learn more about Ansible, Terraform, Docker, Kubernetes, Linux and more:
 
-- 03/2022 - [[Trilha CI/CD]: Provisionando o GitLab na AWS com Terraform e Ansible](https://amauryborgesouza.medium.com/trilha-ci-cd-provisionando-o-gitlab-em-uma-inst%C3%A2ncia-ec2-da-aws-com-terraform-e-ansible-dcbbfe0ecf7e)
+- March 8, 2022 - [[Trilha CI/CD]: Provisionando o GitLab na AWS com Terraform e Ansible](https://amauryborgesouza.medium.com/trilha-ci-cd-provisionando-o-gitlab-em-uma-inst%C3%A2ncia-ec2-da-aws-com-terraform-e-ansible-dcbbfe0ecf7e)
 - 02/2022 - [As boas práticas do Ansible que ninguém te conta e que não existem no Google](https://amauryborgesouza.medium.com/as-boas-pr%C3%A1ticas-do-ansible-que-ningu%C3%A9m-te-conta-e-que-n%C3%A3o-existem-no-google-4fcc3126ad1)
 - 01/2022 - [Criando um cluster Kubernetes com Kind](https://amauryborgesouza.medium.com/criando-um-cluster-kubernetes-com-kind-dc5025748480)
 - 01/2022 - [SRE/DevOps: A STACK para você começar com TUDO em 2022!](https://amauryborgesouza.medium.com/sre-devops-a-stack-para-voc%C3%AA-come%C3%A7ar-com-tudo-em-2022-a85424287344)
