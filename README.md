@@ -7,6 +7,7 @@ When not working at my day job you can find me writing about DevOps on Medium, c
 
 Below you can check some posts developed by me on [Medium](https://amauryborgesouza.medium.com/), there you can learn more about Ansible, Terraform, Docker, Kubernetes, Linux and more:
 
+- March 29, 2022 - [[Trilha CI/CD]: Parte II — Pipeline de IaC com GitLab & Terraform](https://amauryborgesouza.medium.com/trilha-ci-cd-ii-meu-pipeline-de-iac-com-gitlab-para-provisionar-3-ec2-na-aws-com-terraform-83ebb0a761a3)
 - March 8, 2022 - [[Trilha CI/CD]: Provisionando o GitLab na AWS com Terraform e Ansible](https://amauryborgesouza.medium.com/trilha-ci-cd-provisionando-o-gitlab-em-uma-inst%C3%A2ncia-ec2-da-aws-com-terraform-e-ansible-dcbbfe0ecf7e)
 - 02/2022 - [As boas práticas do Ansible que ninguém te conta e que não existem no Google](https://amauryborgesouza.medium.com/as-boas-pr%C3%A1ticas-do-ansible-que-ningu%C3%A9m-te-conta-e-que-n%C3%A3o-existem-no-google-4fcc3126ad1)
 - 01/2022 - [Criando um cluster Kubernetes com Kind](https://amauryborgesouza.medium.com/criando-um-cluster-kubernetes-com-kind-dc5025748480)
@@ -16,7 +17,6 @@ Below you can check some posts developed by me on [Medium](https://amauryborgeso
 - 11/2021 - [Como eu contribuo com projetos Open-Source de DevOps no Github](https://amauryborgesouza.medium.com/como-eu-contribuo-com-projetos-open-source-de-devops-no-github-9e7705a24715)
 - 11/2021 - [(IaC) Parte 6: Provisionando um DigitalOcean Droplet com Terraform](https://amauryborgesouza.medium.com/iac-parte-6-provisionando-um-digitalocean-droplet-com-terraform-120d232d0bba)
 - 11/2021 - [Conheça 5 livros sobre a cultura DevOps que todo entusiasta precisa ler](https://amauryborgesouza.medium.com/conhe%C3%A7a-5-livros-sobre-a-cultura-devops-que-todo-entusiasta-precisa-ler-4d47ddfba9fe)
-- 10/2021 - [Visual Studio Code para Web](https://amauryborgesouza.medium.com/visual-studio-code-para-web-e5353e219342)
 
 ## Recent open source projects
 
