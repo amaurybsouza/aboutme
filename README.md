@@ -9,9 +9,9 @@ Below you can check some posts developed by me on [Medium](https://amauryborgeso
 
 - March 29, 2022 - [[Trilha CI/CD]: Parte II — Pipeline de IaC com GitLab & Terraform](https://amauryborgesouza.medium.com/trilha-ci-cd-ii-meu-pipeline-de-iac-com-gitlab-para-provisionar-3-ec2-na-aws-com-terraform-83ebb0a761a3)
 - March 8, 2022 - [[Trilha CI/CD]: Provisionando o GitLab na AWS com Terraform e Ansible](https://amauryborgesouza.medium.com/trilha-ci-cd-provisionando-o-gitlab-em-uma-inst%C3%A2ncia-ec2-da-aws-com-terraform-e-ansible-dcbbfe0ecf7e)
-- 02/2022 - [As boas práticas do Ansible que ninguém te conta e que não existem no Google](https://amauryborgesouza.medium.com/as-boas-pr%C3%A1ticas-do-ansible-que-ningu%C3%A9m-te-conta-e-que-n%C3%A3o-existem-no-google-4fcc3126ad1)
-- 01/2022 - [Criando um cluster Kubernetes com Kind](https://amauryborgesouza.medium.com/criando-um-cluster-kubernetes-com-kind-dc5025748480)
-- 01/2022 - [SRE/DevOps: A STACK para você começar com TUDO em 2022!](https://amauryborgesouza.medium.com/sre-devops-a-stack-para-voc%C3%AA-come%C3%A7ar-com-tudo-em-2022-a85424287344)
+- February 28, 2022 - [Boas práticas do Ansible que ninguém te conta e que não existem no Google](https://amauryborgesouza.medium.com/as-boas-pr%C3%A1ticas-do-ansible-que-ningu%C3%A9m-te-conta-e-que-n%C3%A3o-existem-no-google-4fcc3126ad1)
+- January 13, 2022 - [Criando um cluster Kubernetes com Kind](https://amauryborgesouza.medium.com/criando-um-cluster-kubernetes-com-kind-dc5025748480)
+- January 11, 2022 - [SRE/DevOps: A STACK para você começar com TUDO em 2022!](https://amauryborgesouza.medium.com/sre-devops-a-stack-para-voc%C3%AA-come%C3%A7ar-com-tudo-em-2022-a85424287344)
 - 12/2021 - [SRE/DevOps 2022: quais serão as tendências do mercado na área?](https://amauryborgesouza.medium.com/sre-devops-2022-quais-ser%C3%A3o-as-tend%C3%AAncias-do-mercado-na-%C3%A1rea-b184b1b55a0f?p=b184b1b55a0f)
 - 12/2021 - [Terraform import: uma ferramenta que o DevOps Engineer ama demais](https://amauryborgesouza.medium.com/terraform-import-uma-ferramenta-que-o-devops-engineer-ama-demais-e30abf8d5a37)
 - 11/2021 - [Como eu contribuo com projetos Open-Source de DevOps no Github](https://amauryborgesouza.medium.com/como-eu-contribuo-com-projetos-open-source-de-devops-no-github-9e7705a24715)
