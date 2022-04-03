@@ -33,7 +33,7 @@ I have several of my personal projects on [Github](https://github.com/amaurybsou
 - [iac-practice](https://github.com/amaurybsouza/iac-practice) - Terraform + Ansible to provision an EC2 on AWS Cloud and install Docker.
 - [terraform-aws-s3](https://github.com/amaurybsouza/terraform-aws-s3) - Provisioning a S3 Bucket on AWS Cloud using the best practices of Terraform.
 
-## Events/meetups/podcasts
+## Events/Meetups/Podcasts
 
 I have participated in some events and meetups related to DevOps like, [SRE Brasil](https://www.meetup.com/SREBrasil/), [#FiqueEmCasaConf](https://www.youtube.com/watch?v=jke_qf6SgAg&list=PLf-O3X2-mxDmn0ikyO7OF8sPr2GDQeZXk&ab_channel=LINUXtips), [KCD Brazil](https://twitter.com/kcdbrasil), [DevOps Days](https://devopsdays.org/), [Kubicast](https://getup.io/kubicast) and much more. Below you can check some events around SRE/DevOps:
 
