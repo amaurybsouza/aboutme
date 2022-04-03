@@ -18,7 +18,7 @@ Below you can check some posts developed by me on [Medium](https://amauryborgeso
 - November 12, 2021 - [(IaC) Parte 6: Provisionando um DigitalOcean Droplet com Terraform](https://amauryborgesouza.medium.com/iac-parte-6-provisionando-um-digitalocean-droplet-com-terraform-120d232d0bba)
 - November 7, 2022 - [Conheça 5 livros sobre a cultura DevOps que todo entusiasta precisa ler](https://amauryborgesouza.medium.com/conhe%C3%A7a-5-livros-sobre-a-cultura-devops-que-todo-entusiasta-precisa-ler-4d47ddfba9fe)
 
-## Recent open source projects
+## Recent Open Source projects
 
 I have several of my personal projects on [Github](https://github.com/amaurybsouza), approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers and automation:
 
