@@ -1,6 +1,6 @@
 ## Intro
 
-I’m a System Engineer, Digital Creator and Speaker. Focused on Infrastructure as Code (IaC), automation and Linux with a hard background in banking. I have more than 8 years of experience in support of mission-critical platforms and technical participation in complex projects. 
+I’m a DevOps Engineer, Digital Creator and Speaker. Focused on Infrastructure as Code (IaC), automation and Linux with a hard background in banking. I have more than 8 years of experience in support of mission-critical platforms and technical participation in complex projects. 
 
 My career is based in Ops and following the evolution of technology on the IT market, I adapted my career adhering to the pillars of DevOps and the premise of automation and collaboration.
 
